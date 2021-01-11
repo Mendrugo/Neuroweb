@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Neuronall Network
 category: Identity
-thumbnail: "/uploads/logo-firma.png"
+thumbnail: "/uploads/logograndenuevo-alargado-copia.png"
 categories:
 - bussiness
 project_bg_color: ''
